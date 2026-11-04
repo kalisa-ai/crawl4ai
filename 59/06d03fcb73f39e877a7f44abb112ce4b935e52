@@ -1,0 +1,19 @@
+pyproject.toml
+  s_6f9c90653c5de3::t_1483381e5bca81 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5906d03fcb73f39e877a7f44abb112ce4b935e52",
+  "prompts": {},
+  "sessions": {
+    "s_6f9c90653c5de3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a8ce-3817-78f2-a8df-22256ab26da9",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "adamroney <adam@calls9.com>"
+    }
+  }
+}
